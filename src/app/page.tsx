@@ -7,7 +7,7 @@ export default function Home() {
 			{/* Welcome */}
 			<div className="flex flex-col items-center mt-4">
 				<h3 className="font-semibold text-2xl lg:text-3xl">
-					Welcome to MangaThingy
+					Welcome to Xer-MMM
 				</h3>
 				<p className="text-xs mt-2 text-gray-600">
 					your one stop for all your manga needs
