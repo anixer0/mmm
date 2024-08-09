@@ -10,7 +10,7 @@ const MangaReaderLatestMangas = async () => {
 			<div className="breadcrumbs text-sm mt-4">
 				<ul>
 					<li>
-						<Link href={"/"}>Homepage</Link>
+						<Link href={"Latest"}>Homepage</Link>
 					</li>
 					<li>
 						<a>Latest</a>
